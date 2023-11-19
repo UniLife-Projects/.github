@@ -11,15 +11,15 @@ I'm eager to bring my technical expertise and collaborative spirit to a dynamic 
 
 ***
 
-### Full-Stack Projects
+<u>### Full-Stack Projects</u>
 
 ***
 
-### Front-End Projects
+<u>### Front-End Projects</u>
 
-[Forkify Recipe API](https://uche-jordy-forkify.netlify.app/)
+[⭐️ Forkify Recipe API](https://uche-jordy-forkify.netlify.app/)
 
-[OmniFood TakeAway](https://uche-jordy-omnifood.netlify.app/)
+[⭐️ OmniFood TakeAway](https://uche-jordy-omnifood.netlify.app/)
 
 
 <!--
