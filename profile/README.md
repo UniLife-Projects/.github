@@ -1,11 +1,11 @@
-## Hi there, Welcome 👋
+# Hi there, Welcome 👋
 > Please take some time off to look at my works
 
-#### Full-Stack Projects
+### Full-Stack Projects
 
 ***
 
-#### Front-End Projects
+### Front-End Projects
 
 [Forkify Recipe API](https://uche-jordy-forkify.netlify.app/)
 
