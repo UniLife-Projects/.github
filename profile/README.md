@@ -15,7 +15,7 @@ I'm eager to bring my technical expertise and collaborative spirit to a dynamic 
 
 ***
 
-<u>### Front-End Projects</u>
+### Front-End Projects
 
 [⭐️ Forkify Recipe API](https://uche-jordy-forkify.netlify.app/)
 
