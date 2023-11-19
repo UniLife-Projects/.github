@@ -9,6 +9,8 @@ I'm a firm believer in the power of continuous learning and personal growth. Eve
 
 I'm eager to bring my technical expertise and collaborative spirit to a dynamic team, with which I can contribute to meaningful projects and drive impactful change.
 
+***
+
 ### Full-Stack Projects
 
 ***
