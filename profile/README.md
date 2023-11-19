@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there, Welcome 👋
+> Please take some time off to look at my works
+
+#### Full-Stack Projects
+
+***
+
+#### Front-End Projects
+
+[Forkify Recipe API](https://uche-jordy-forkify.netlify.app/)
+
+[OmniFood TakeAway](https://uche-jordy-omnifood.netlify.app/)
+
 
 <!--
 
@@ -10,5 +22,3 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-###### This is the README.md
