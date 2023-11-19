@@ -11,7 +11,7 @@ I'm eager to bring my technical expertise and collaborative spirit to a dynamic 
 
 ***
 
-<u>### Full-Stack Projects</u>
+### Full-Stack Projects
 
 ***
 
