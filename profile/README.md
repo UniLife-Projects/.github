@@ -1,7 +1,7 @@
 # Hi there, Welcome 👋
 > Please take some time off to look at my works
 
-🔗 My [LinkedIn](https://www.linkedin.com/in/jordan-uchej/)
+##### My [LinkedIn](https://www.linkedin.com/in/jordan-uchej/)
 
 ***
 
