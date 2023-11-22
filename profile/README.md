@@ -14,6 +14,8 @@
 ### Project Experience
 [⭐️ Forkify Recipe API](https://uche-jordy-forkify.netlify.app/)
 
+[⭐️ The Bankist Application](https://uche-jordy-bankist-dom.netlify.app/)
+
 [⭐️ OmniFood TakeAway](https://uche-jordy-omnifood.netlify.app/)
 
 [⭐️ Guess The Number](https://uche-jordy-guess-my-number.netlify.app/)
