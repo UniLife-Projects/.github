@@ -4,13 +4,14 @@
 ### [My LinkedIn](https://www.linkedin.com/in/jordan-uchej/)
 
 ***
-
+<!--
 ### Full-Stack Projects
 
 ***
 
 ### Front-End Projects
-
+-->
+### Projects
 [⭐️ Forkify Recipe API](https://uche-jordy-forkify.netlify.app/)
 
 [⭐️ OmniFood TakeAway](https://uche-jordy-omnifood.netlify.app/)
