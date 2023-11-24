@@ -1,6 +1,6 @@
 # Hi there, Welcome 👋
 
-##### 🚀 I'm Jordan Onwuvuche, a recent Computer Science graduate from the University of British Columbia, BC, Canada
+##### 🚀 I'm Jordan C. Onwuvuche, a recent Computer Science graduate from the University of British Columbia, BC, Canada
 
 > Please take some time off to look at my works
 
