@@ -1,10 +1,14 @@
 # Hi there, Welcome 👋
+
+##### 🚀 I'm Jordan Onwuvuche, a recent Computer Science graduate from the University of British Columbia
+
 > Please take some time off to look at my works
 
 ### [My LinkedIn](https://www.linkedin.com/in/jordan-uchej/)
 
-***
 <!--
+***
+
 ### Full-Stack Projects Experience
 
 ***
