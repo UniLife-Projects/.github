@@ -24,6 +24,8 @@
 
 [⭐️ The Game of Pig](https://uche-jordy-game-of-pig.netlify.app/)
 
+[⭐️ Pizza Co. React App](https://uche-jordy-pizzamenu.netlify.app/)
+
 
 <!--
 
